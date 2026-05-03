@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في الليالي
+> أنت الأمل وأنت غالي
+> روحي تنادي في سكون
+> حبك حياتي والجنون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
